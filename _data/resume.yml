@@ -12,13 +12,13 @@ contact: #联系方式连接等3~5行
 - text: "15209288583@163.com" #文本内容
   href: '15209288583@163.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
-- text: "+86 15209288583"
+- text: "+86 152-0928-8583"
   href: 'tel:+86 15209288583'
   icon: 'icons/phone.svg'
-- text: "+44 07561500532"
+- text: "+44 075-615-00532"
   href: 'tel:+44 07561500532'
   icon: 'icons/phone.svg'
-- text: "GitHubID"
+- text: "https://github.com/YaohuiShao"
   href: 'https://github.com/YaohuiShao'
   icon: "icons/github.svg"
   attr: 'target="_blank"' #新标签页打开
@@ -30,52 +30,62 @@ main: #简历主要内容，
 - type: education #类别为ID
   name: 教育 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: 大学名称
-    duration: "2011年x月 - 2015年"
-    sub: 地点或学历
-    detail: 专业或者简短说明
-  - title: Your University
-    duration: Aug 2007 - Jun 2011
-    sub: Ut enim ad minim veniam
-    detail: Master Bachelor of Computer Science & Technology.
+  - title: The University of Edinburgh(爱丁堡大学)
+    duration: "2016年9月 - 2017年8月"
+    sub: 公派硕士研究生
+    detail: 计算机科学(主修软件工程、机器学习、大数据处理等)
+  - title: 西北工业大学
+    duration: "2012年9月 - 2016年6月"
+    sub: 本科
+    detail: 信息管理与信息系统(主修信息系统分析与设计、项目管理、统计学等)
+  - title: 首尔国立大学
+    duration: "2015年9月 - 2015年12月"
+    sub: 公派交换生
+    detail: 管理信息系统(主修运筹学、电子商务、市场营销等)
 
-- type: skills
+- type: 技能
   # name: "技能"
   content:
-  - title: 编程语言
+  - title: 软件
     items: #itmems 可以小块的方式显示
-    - 汉语
-    - 语言2
-    - 语言3
-  - title: Skill Group
-    summary: Consectetur, Adipiscing, Elit
+    - Axure RP
+    - Office(Excel/Viso/Project等)
+    - Latex
+    - Photoshop
+  - title: 编程
+    items: #itmems 可以小块的方式显示
+    - Java
+    - SQL
+    - 计算机C语言二级
+    - python
+  - title: 英语
+    items: #itmems 可以小块的方式显示
+    - 雅思6.5/9
+    - 六级518
 
 - type: experience
-  name: 经验
+  name: 工作经验
   content:
-  - title: 职位
-    sub: 某某公司
-    duration: "xxxx年xx月 - yyyy年yy月"
+  - title: 系统测试实习生
+    sub: 陕西省西安市高新区管理委员会
+    duration: "2015年6月-7月"
     tags:
-    - 标签
-    summary: 职务或者工作总结(自动折叠)
-    detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
+    - 功能测试
+    - 可用性测试
+    - 性能测试
+    - Web测试
+    summary: 针对"西安市高新区建设开发平台"进行系统测试
+    detail:  曾在陕西省西安市高新管委会担任测试实习生两个月。期间负责“高新区建设开发平台”的用户网页端和server端的测试工作。实习过程中运用并掌握了部分系统测试思维
+    和方法，如功能测试、可用性测试和性能测试，熟悉测试用例，独立检测系统故障20余个，并完成测试用例报告。
     # open: open
     #可以设置open默认展开
-  - title: Job Title
-    sub: Your 2nd, Inc.  
-    duration: Apr 2013 - Mar 2016
-    tags: 
-    - tagname
-    summary: Summary your job or work. (Collapse)
-    detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 - type: projects
   name: Projects
   content:
-  - title: 项目名称
+  - title: 
     duration: xxxx年xx月 - yyyy年yy月
-    detail: 项目和工作介绍，项目总结.
+    detail: .
     sub: 维护者
   - title: Project Name
     summary: Projects' introduction or summary
