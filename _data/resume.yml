@@ -13,10 +13,7 @@ contact: #联系方式连接等3~5行
   href: '15209288583@163.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
 - text: "+86 152-0928-8583"
-  href: 'tel:+86 15209288583'
-  icon: 'icons/phone.svg'
-- text: "+44 075-615-00532"
-  href: 'tel:+44 07561500532'
+  href: 'tel:+86 15209288583 ／ +44 075-615-00532'
   icon: 'icons/phone.svg'
 - text: "https://github.com/YaohuiShao"
   href: 'https://github.com/YaohuiShao'
@@ -81,10 +78,19 @@ main: #简历主要内容，
     sub: 开发者
   - title: 校园捐赠管理系统的开发
     duration: 本科阶段
+    tags:
+    - PHP
+    - 捐赠系统
+    - MySQL
     detail: 该系统用于管理校园物品捐赠，实现了用户捐赠、受赠、评论、后台管理等功能。本人负责设计到实施的全部工作，掌握了用PHP语言进行网站开发，用MySQL对数据库进行增删改查等技能。
     sub: 开发者
   - title: 大创－校园文化纪念品设计与销售
     duration: 本科阶段
+    tags:
+    - 创业
+    - 校园纪念品
+    - 产品设计
+    - 销售
     detail: 该创业项目获国家1w元资助，设计出三款金属书签，两款运动手环和一套明信片，通过微信公众号和实体店销售，历时一年共盈利约2w元。本人担任项目队长，负责组织沟通，项目管理和部分销售工作，锻炼了沟通能力，组织管理能力，增长了营销理念。
     sub: 项目队长
    #可继续添加更多内容
@@ -98,12 +104,7 @@ others: #其他列表显示
     text: "雅思6.5， 六级518"
   - title: "学生工作："
     text: "学习委员(本科四年)"
-  - title: "兴趣:"
-    items: #单行列表
-    - 阅读
-    - 唱歌
-    - 打篮球
-    - 打游戏
+  
 #- type: 
 #  name: '其他'
 #  content: #选择需要的格式
