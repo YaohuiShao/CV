@@ -40,12 +40,17 @@ main: #简历主要内容，
   # name: "技能"
   content:
   - title: 软件
-    text: "Axure"
+    items: #itmems 可以小块的方式显示
+    - Axure RP
+    - Office(Excel/Viso/Project等)
+    - Latex
+    - Photoshop
     
   - title: 编程
     items: #itmems 可以小块的方式显示
     - Java
     - SQL
+    - PHP
     - UML
 
 - type: experience
