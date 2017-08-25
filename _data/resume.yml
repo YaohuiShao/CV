@@ -28,10 +28,9 @@ main: #简历主要内容，
   name: 教育 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: The University of Edinburgh(爱丁堡大学)
-    duration: "2016年9月 - 2017年8月"
-    sub: 公派硕士研究生
+    sub: 硕士(公派)
     detail: 计算机科学(主修数据库、软件工程、大数据处理等)
-  - title: 西北工业大学&首尔国立大学
+  - title: 西北工业大学 & 首尔国立大学
     duration: "2012年9月 - 2016年6月"
     sub: 本科
     detail: 信息管理与信息系统(主修信息系统分析与设计、市场营销、电子商务等)
@@ -85,12 +84,15 @@ others: #其他列表显示
 - type: others #ID可以为空
   name: '其他信息'
   content: #选择需要的格式
+  - title: "软件技能／编程语言："
+    text: "Axure、Latex、Photoshop；Java、SQL、PHP、UML"
   - title: "英语能力："
     text: "雅思6.5， 六级518"
-  - title: "学生工作："
-    text: "学习委员(本科四年)"
   - title: "获奖信息："
     text: "校优秀学生(一等奖学金)，  全国大学生英语演讲比赛二等奖"
+  - title: "兴趣爱好："
+    text: "阅读、吉他、篮球、打游戏"
+  
   
 #- type: 
 #  name: '其他'
