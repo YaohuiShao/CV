@@ -27,8 +27,8 @@ main: #简历主要内容，
 - type: education #类别为ID
   name: 教育 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: The University of Edinburgh(爱丁堡大学)
-    sub: 硕士(公派)        (2016.9 - 2017.8)
+  - title: 爱丁堡大学
+    sub: 硕士(公派)       duation: "2016.9 - 2017.8"
     detail: 计算机科学(主修数据库、软件工程、大数据处理等)
   - title: 西北工业大学 & 首尔国立大学
     sub: 本科 (2012.9 - 2016.6)
