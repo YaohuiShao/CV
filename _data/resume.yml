@@ -59,12 +59,12 @@ main: #简历主要内容，
     sub: 独立完成者
     detail: 任务是对StackOverflow网站(一个问答社区)上的部分内容进行指定的数据分析。本人在Hadoop架构下，运用MapReduce技术对含1.2亿单词的网页内容进行各项计算，如找出提问最多的10个用户或出现频率最高的搜索词。该项目使本人加强了对大数据的认知，掌握了部分大数据挖掘和处理的技术。详情：https://github.com/YaohuiShao/Data-Mining/tree/master/MapReduce。
 
- - title: MNIST和CIFAR-10图像识别
+  - title: MNIST和CIFAR-10图像识别
     duration: "硕士课设"
     sub: 独立完成者
     detail: 任务是利用机器学习对MNIST手写数字图像集(70k个图像)和CIFAR图像集(60k个图像)进行图像识别。本人采用了卷及神经网络(CNN)和深度神经网络(DNN)等技术，预测MNIST和CIFAR图像集的准确率分别达到98%和71%。通过该项目能应用传统机器学习技术和前沿的深度学习技术解决部分实际问题，为本人构建了人工智能方向的基本知识体系。详情：https://github.com/YaohuiShao/Machine-learning。
 
-- title: 校园捐赠管理系统的开发
+  - title: 校园捐赠管理系统的开发
     duration: "本科毕设"
     sub: 独立开发者
     detail: 该项目为本人本科毕业设计，任务是开发一个管理校园捐赠的网站，本人负责网站需求分析，设计及开发全部工作。网站含捐赠、受赠、留言板等6大模块，实现了校园捐赠管理的基本功能。掌握了网页前端开发及后台数据库连接及操作，熟悉了一个网站从需求挖掘到开发运维的全部过程。详情：https://github.com/YaohuiShao/DMS。
