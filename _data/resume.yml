@@ -57,7 +57,7 @@ main: #简历主要内容，
   - title: StackOverflow大数据分析
     duration: "硕士课设"
     sub: 独立完成者
-    detail: 任务是对StackOverflow网站(一个问答社区)上的部分内容进行指定的数据分析。本人在Had-oop架构下，运用MapReduce技术对含1.2亿单词的网页内容进行各项计算，如找出提问最多的10个用户或出现频率最高的搜索词。该项目使本人加强了对大数据的认知，掌握了部分大数据挖掘和处理的技术。详情：https://github.com/YaohuiShao/Data-Mining/tree/master/MapReduce。
+    detail: 任务是对StackOverflow网站(一个问答社区)上的部分内容进行指定的数据分析。本人在Hadoop架构下，运用MapReduce技术对含1.2亿单词的网页内容进行各项计算，如找出提问最多的10个用户或出现频率最高的搜索词。该项目加强了本人对大数据的认知，掌握了部分大数据挖掘和处理的技术。详情：https://github.com/YaohuiShao/Data-Mining/tree/master/MapReduce。
 
   - title: 利用机器学习进行图像识别
     duration: "硕士课设"
@@ -84,7 +84,7 @@ others: #其他列表显示
   - title: "获奖信息："
     text: "校优秀学生(一等奖学金)，  全国大学生英语演讲比赛二等奖"
   - title: "爱好： "
-    text: "国际象棋、古诗、天文学、打篮球、打游戏和一切新鲜事物"
+    text: "象棋、古诗、天文学、篮球、游戏和一切新鲜事物"
     
 - type: others
   name: '个人评价'
