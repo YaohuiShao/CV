@@ -62,7 +62,7 @@ main: #简历主要内容，
   - title: 利用机器学习进行MNIST和CIFAR-10图像识别
     duration: "硕士课设"
     sub: 独立完成者
-    detail: 任务是对MNIST手写数字图像集(70k个图像)和CIFAR图像集(60k个图像)进行图像识别。本人采用了卷及神经网络(CNN)和深度神经网络(DNN)等技术，预测MNIST和CIFAR图像集的准确率分别达到98%和71%。学会了应用传统机器学习技术和前沿的深度学习技术解决部分实际问题，为本人构建了人工智能方向的基本知识体系。详情：https://github.com/YaohuiShao/Machine-learning。
+    detail: 任务是对MNIST手写数字图像集(70k个图像)和CIFAR图像集(60k个图像)进行图像识别。本人采用了卷积神经网络(CNN)和深度神经网络(DNN)等技术，预测MNIST和CIFAR图像集的准确率分别达到98%和71%。学会了应用传统机器学习技术和前沿的深度学习技术解决部分实际问题，为本人构建了人工智能方向的基本知识体系。详情：https://github.com/YaohuiShao/Machine-learning。
 
   - title: 校园捐赠管理系统的开发
     duration: "本科毕设"
