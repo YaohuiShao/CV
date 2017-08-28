@@ -78,9 +78,9 @@ others: #其他列表显示
     text: "Axure、Photoshop／Java、SQL、PHP／雅思6.5"
   - title: "获奖信息："
     text: "校优秀学生(一等奖学金)，  全国大学生英语演讲比赛二等奖"
-  - title: "爱好: "
+  - title: "爱好： "
     text: "国际象棋、古诗、天文学、打篮球、打游戏和一切新鲜事物"
-  - title: "梦想: "
+  - title: "梦想： "
     text: "世界和平；做出一款改变人类生活方式的app"
 - type: others
   name: '个人评价'
