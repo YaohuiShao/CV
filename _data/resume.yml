@@ -15,7 +15,7 @@ contact: #联系方式连接等3~5行
 - text: "+86 152-0928-8583 ／ +44 075-615-00532"
   href: 'tel:+86 15209288583'
   icon: 'icons/phone.svg'
-- text: "我的github"
+- text: "我的github主页"
   href: 'https://github.com/YaohuiShao'
   icon: "icons/github.svg"
   attr: 'target="_blank"' #新标签页打开
