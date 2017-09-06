@@ -90,8 +90,6 @@ others: #其他列表显示
 - type: others #ID可以为空
   name: '其他信息'
   content: #选择需要的格式
-  - title: "编程语言: "
-    text: "Java、Python、SQL、PHP"
   - title: "英语: "
     items: 
     - 雅思6.5(口语6)
