@@ -34,6 +34,17 @@ main: #简历主要内容，
     duration: "2012.9 - 2016.6"
     sub: 本科 
     detail: 信息管理与信息系统(主修信息系统分析与设计、数据库系统、计算机网络等)
+    
+- type: skills
+  name: "技能"
+  content:
+  - title: 编程语言
+    items: #itmems 可以小块的方式显示
+    - Java
+    - Python
+    - PHP
+  - title: Skill Group
+    summary: MapReduce,  MySQL,  机器学习,  TensorFlow,  Python Numpy&Pandas
 
 - type: experience
   name: 工作经验
