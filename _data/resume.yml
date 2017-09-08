@@ -74,7 +74,7 @@ main: #简历主要内容，
     sub: 独立完成者
     detail: 任务是利用机器学习对MNIST手写数字集和CIFAR图像集进行图像识别。项目采用了卷积神经网络(CNN)和深度神经网络(DNN)等技术，MNIST和CIFAR图像集的预测准确率分别达到了98%和71%。熟悉了tensorflow和NumPy框架，掌握了神经网络常用技术，如激活函数，池化技术，解决过拟合的方法(如L1、L2正则化)等。详情：https://github.com/YaohuiShao/Machine-learning。
   
-  - title: 对ebay交易数据的爬取，建表和空间搜索查询。
+  - title: 对ebay交易数据的爬取，建表和空间搜索查询
     duration: "硕士课设"
     sub: 开发者
     detail: 任务是爬取XML格式的ebay部分交易数据，设计满足第四范式的数据库关系表并存入库，并实现空间搜索查询。对该数据库中数据，可搜索出与关键词相关的商品并按lucene score排序；对特定处于某位置的商品，可搜索与其地理距离小于某个值的所有商品。
