@@ -78,12 +78,13 @@ others: #其他列表显示
 - type: others #ID可以为空
   name: '其他信息'
   content: #选择需要的格式
+  - title: "政治面貌： "
+    text: "中共党员"
   - title: "软件技能／编程语言／英语："
     text: "Axure、Photoshop／Java、Python、SQL、PHP／雅思6.5"
   - title: "获奖信息："
     text: "校优秀学生(一等奖学金)，  全国大学生英语演讲比赛二等奖"
-  - title: "政治面貌： "
-    text: "中共党员"
+
     
 - type: others
   name: '个人评价'
