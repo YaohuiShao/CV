@@ -11,7 +11,7 @@ contact: #联系方式连接等3~5行
 - text: "15209288583@163.com" #文本内容
   href: '15209288583@163.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
-- text: "+86 152-0928-8583 ／ +44 075-615-00532"
+- text: "+86 152-0928-8583"
   href: 'tel:+86 15209288583'
   icon: 'icons/phone.svg'
 - text: "我的github主页"
