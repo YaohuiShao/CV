@@ -46,7 +46,7 @@ main: #简历主要内容，
     #可以设置open默认展开
   - title: Enterprise Research
     duration: "2013.7 - 2013.8"
-    sub:Development and Reform Bureau of high-tech zone, Xi’an City 
+    sub: Development and Reform Bureau of high-tech zone, Xi’an City 
     detail: Designing questionnaire, field researching 400 companies in Xi'an high-tech Zone (About 330 valuable questionnaires were received), and entering the information for the government.
     # open: open
     #可以设置open默认展开
@@ -72,7 +72,7 @@ main: #简历主要内容，
   
   - title: Volunteer-International Volunteers Program
     duration: "During Undergraduate"
-    sub:  Leader
+    sub: Leader
     detail: United 7 students from South Korean and 6 Chinese students together to plan a welfare activity; Planned to construct a mini library for the leftover children lived in remote village near Xi’an City; Organized the purchase of books and furniture; assigned tasks; finished the construction；publicity.
   
   - title: AI-Machine learning for image identification
