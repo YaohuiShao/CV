@@ -2,8 +2,8 @@
 # 如果YAML格式的数据请先检查格式是否有误，可选检查工具 http://www.yamllint.com
 
 title: "简历标题"
-lang: "zh" #语言设置 zh表示中文 en 表示英语
-name: "邵耀辉"
+lang: "en" #语言设置 zh表示中文 en 表示英语
+name: "SHAO YAOHUI"
 photo: "assets/img/syh.jpg" #照片可空，不显示
 
 #联系方式
@@ -14,7 +14,7 @@ contact: #联系方式连接等3~5行
 - text: "+86 152-0928-8583"
   href: 'tel:+86 15209288583'
   icon: 'icons/phone.svg'
-- text: "我的github主页"
+- text: "https://github.com/YaohuiShao"
   href: 'https://github.com/YaohuiShao'
   icon: "icons/github.svg"
   attr: 'target="_blank"' #新标签页打开
@@ -24,78 +24,78 @@ contact: #联系方式连接等3~5行
 #main下面是主体内容，类别条数不限
 main: #简历主要内容，
 - type: education #类别为ID
-  name: 教育 #显示名称，空则使用type
+  name: EDUCATION #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: 爱丁堡大学
+  - title: The University of Edinburgh
     duration: "2016.9 - 2018.1"
-    sub: 硕士(公派)       
-    detail: 计算机科学(主修机器学习、软件工程、大数据处理等)
-  - title: 西北工业大学 & 首尔大学(公派交换)
+    sub: Master(Government-Sponsored)       
+    detail: Computer Science(Major courses: Machine Learning, Software Egineering, Big Data Analysis)
+  - title: Northwestern Polytechnical University & Seoul National University(Exchange Programme)
     duration: "2012.9 - 2016.6"
-    sub: 本科 
-    detail: 信息管理与信息系统(主修信息系统分析与设计、市场营销、电子商务等)
+    sub: Bachelor 
+    detail: Information Management & Information System (Major courses: Information System Analysis and Design, Marketing, E-Commerce)
 
 - type: experience
-  name: 工作经验
+  name: Intern
   content:
-  - title: 系统测试实习生
+  - title: System Test
     duration: "2015.6 - 2015.7"
-    sub: 陕西省西安市高新管委会 
-    detail: 此实习由西北工业大学组织，任务是对将要投入使用的“西安高新区经济建设管理平台”进行测试。本人参与该平台Web端的黑盒测试，负责“国土资源”等三大模块，独立检测出bug23处，为团队(5人)贡献了32%的有效结果，并撰写了《系统测试用例》和《用户测试报告》。过程中自主学习掌握了等价划分、边界值分析等测试方法，熟悉了团队系统测试的流程。
+    sub: The Administrative Committee of high-tech zone, Xi’an City
+    detail: Finishing the system test of the Economic Construction Management System of Xi'an high-tech Zone. I independently detected 23 bugs, and wrote “Test Case Report” and “User Test Report”.
     # open: open
     #可以设置open默认展开
-  - title: 企业调研实习生
+  - title: Enterprise Research
     duration: "2013.7 - 2013.8"
-    sub: 陕西省西安市高新区发改局 
-    detail: 该实习项目由区政府组织，目的是调研西安市高新区主要商圈的中小企业。本人实习内容包括调查问卷设定(主要调查企业基本信息和企业对发改局的建议)，实地调研，信息汇总录入。期间共走访400余家企业，收回330份有效问卷，为发改局提供了诸多有价值的信息。通过此实习掌握了问卷设计技巧，Excel使用，培养了沟通与合作技能。
+    sub:Development and Reform Bureau of high-tech zone, Xi’an City 
+    detail: Designing questionnaire, field researching 400 companies in Xi'an high-tech Zone (About 330 valuable questionnaires were received), and entering the information for the government.
     # open: open
     #可以设置open默认展开
 
 - type: projects
-  name: 项目经验
+  name: Projects
   content:
-  - title: 创业－校园文化纪念品的设计与销售
-    duration: "本科阶段"
-    sub: 项目队长
-    detail: 该项目为国家大学生创新创业项目，获国家1w元启动资金。目标是创立品牌，宣传西工大文化，实现预期利润。作为项目组(5人)队长，参与设计出3款金属书签，2款运动手环和1套明信片；负责联系3个厂家代生产；联系2个经销商代售和部分直销工作；组织20余次团队例会，协调分配任务。通过线上推广宣传，线下直销和经销，历时一年销售利润达2.5w元，实现预期目标。详情：https://pan.baidu.com/s/1qYNVyDe。
-
-  - title: 算法可视化教学软件的开发
-    duration: "硕士毕设"
-    sub: 独立开发者
-    detail: 任务是开发一款以动画呈现算法原理的桌面教学软件。项目首先挖掘学生对该类app功能的需求，接着画原型、设计UI，最后进行代码实现(5000余行)。25人测评结果显示，该软件实现了其教育意义。通过该项目，积累了Java桌面app的开发经验，对挖掘需求和设计交互有了更深的认识。该软件于2017年9月在爱丁堡大学投入使用，用户约达200人。下载：https://pan.baidu.com/s/1c2tRGD6。
   
-  - title: 校园捐赠管理系统的开发
-    duration: "本科毕设"
-    sub: 独立开发者
-    detail: 任务是开发一个管理校园捐赠信息的网站，本人负责网站需求分析，设计及开发全部工作。网站含捐赠、受赠、留言板等6大模块，实现了校园捐赠管理的基本功能。加强了分析用户、挖掘用户需求的能力，掌握了网页前端、后台开发及后台数据库连接及操作，熟悉了网站的开发流程。
-  
-  - title: 利用机器学习进行图像识别
-    duration: "硕士课设"
-    sub: 独立完成者
-    detail: 任务是对MNIST手写数字图像集(70k个图像)和CIFAR图像集(60k个图像)进行图像识别。本人采用了卷积神经网络(CNN)和深度神经网络(DNN)等技术，MNIST和CIFAR图像集的预测准确率分别达到了98%和71%。学会了应用传统机器学习技术和前沿的深度学习技术解决部分实际问题，为本人构建了人工智能方向的基本知识体系。详情：https://github.com/YaohuiShao/Machine-learning。
+  - title: Software-Teaching Software Development
+    duration: "Master graduation project"
+    sub: Developer
+    detail: User requirement analysis and app design including workflow, UI, functionality and etc; Development, app evaluation and bug fixing; achieving the visualization of 7 algorithms; Put into use in The University of Edinburgh; used by 200 students to learn algorithms.
     
-  - title: StackOverflow大数据分析
-    duration: "硕士课设"
-    sub: 独立完成者
-    detail: 任务是对StackOverflow网站(一个问答社区)上的部分内容进行指定的数据分析。本人在Hadoop架构下，运用MapReduce技术对含1.2亿单词的网页内容进行各项计算，如找出提问最多的10个用户或出现频率最高的搜索词。该项目加强了本人对大数据的认知，掌握了部分大数据挖掘和处理的技术。详情：https://github.com/YaohuiShao/Data-Mining/tree/master/MapReduce。
+  - title: Website-Campus Donation System Development
+    duration: "Bachelor graduation project"
+    sub:  Developer
+    detail: User requirement analysis and system design of a website for donation management; Website development; achieved 6 main functions such as donating, receiving and leaving a message.
+  
+  - title: Venture－Campus souvenirs design and selling
+    duration: "Undergraduate"
+    sub: Leader
+    detail: We acquired 10k RMB from the government as the start-up capital. The Goal is creating brand and achieving expected profit. As the team leader (5 people)，I participated in designing 3 types of metal bookmarks, 2 types of sport wristbands and 1 set of postcard；I was responsible for contacting 3 manufacturers and two dealers, organizing 20 meetings and assining tasks. We gained 25k RMB profit though this project.
+  
+  - title: Volunteer-International Volunteers Program
+    duration: "During Undergraduate"
+    sub:  Leader
+    detail: United 7 students from South Korean and 6 Chinese students together to plan a welfare activity; Planned to construct a mini library for the leftover children lived in remote village near Xi’an City; Organized the purchase of books and furniture; assigned tasks; finished the construction；publicity.
+  
+  - title: AI-Machine learning for image identification
+    duration: "During Master"
+    sub: Developer
+    detail: Constructing CNN and DNN for training the datasets MNIST and CIFAR10/100; Adjusting parameters and optimize the models; The accuracy achieved 98% and 71% respectively.
+ 
+  - title: Big data-StackOverflow big data analysis
+    duration: "During master"
+    sub: Developer
+    detail: Aim to analyze the big data extracted from stackOverflow. I finished the different analysis for 120 million words using MapReduce and Hadoop. For example, finding out the most frequent word. 
 
 
 #others 其他简略内容(列表)
 others: #其他列表显示
 - type: others #ID可以为空
-  name: '其他信息'
+  name: 'OTHER INFO'
   content: #选择需要的格式
-  - title: "软件技能／编程语言／英语："
-    text: "Axure、Photoshop／Java、Python、SQL、PHP／雅思6.5"
-  - title: "获奖信息："
-    text: "校优秀学生(一等奖学金)，  全国大学生英语演讲比赛二等奖"
-  - title: "爱好： "
-    text: "象棋、古诗、天文学、篮球、游戏和一切新鲜事物"
-    
-- type: others
-  name: '个人评价'
-  content: 本人具有5年的计算机和管理学复合型教育背景，一方面具备扎实的计算机基础，且对大数据及机器学习等较新技术有所研究；另一方面，沟通协作和文字组织能力在各商科课程和社会实践中得到训练和提升。网站与App的开发，测试岗的实习，以及创业项目的训练，使本人对产品的研发，设计，测试与运营有一定的认识。怀着对互联网产品的热爱，以及对贵企业“每一天都在进步”理念的认同，我希望能利用自身优势，与贵公司一同进步。
-  
+  - title: "Software／Programming／English："
+    text: "Axure、Photoshop／Java、Python、SQL、PHP／IELTS 6.5"
+  - title: "Awards & Honors:"
+    text: "1. The Title of Excellent Student with 1st class Scholarship, NWPU. 2.The Title of Excellent Student Cadre with the 2nd class Scholarship, NWPU. 3. The title of Excellent graduate, NWPU. 4. The 2nd Class Prize in the 18th National English Speech Contest (Campus Selective Trials, Shaanxi)"
+
 
 #footer 脚注，打印版和web版不同不显示    
 footer: #脚注多组
