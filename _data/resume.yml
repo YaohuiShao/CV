@@ -38,15 +38,15 @@ main: #简历主要内容，
 - type: experience
   name: Intern
   content:
-  - title: System Test
+  - title: System Test -
     duration: "2015.6 - 2015.7"
-    sub: - The Administrative Committee of high-tech zone, Xi’an City
+    sub:  The Administrative Committee of high-tech zone, Xi’an City
     detail: Finishing the system test of the Economic Construction Management System of Xi'an high-tech Zone. I independently detected 23 bugs, and wrote “Test Case Report” and “User Test Report”.
     # open: open
     #可以设置open默认展开
-  - title: Enterprise Research
+  - title: Enterprise Research - 
     duration: "2013.7 - 2013.8"
-    sub: - Development and Reform Bureau of high-tech zone, Xi’an City 
+    sub:  Development and Reform Bureau of high-tech zone, Xi’an City 
     detail: Designing questionnaire, field researching 400 companies in Xi'an high-tech Zone (About 330 valuable questionnaires were received), and entering the information for the government.
     # open: open
     #可以设置open默认展开
