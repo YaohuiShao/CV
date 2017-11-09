@@ -29,11 +29,11 @@ main: #简历主要内容，
   - title: The University of Edinburgh
     duration: "2016.9 - 2018.1"
     sub: Master(Government-Sponsored)       
-    detail: Computer Science (Major courses: Machine Learning, Software Engineering, Big Data Analysis)
+    detail: Computer Science (Machine Learning, Software Engineering, Big Data Analysis)
   - title: Northwestern Polytechnical University & Seoul National University(Exchange Programme)
     duration: "2012.9 - 2016.6"
     sub: Bachelor 
-    detail: Information Management & Information System (Major courses: Information System Analysis and Design, Marketing, E-Commerce)
+    detail: Information Management & Information System (Information System Analysis and Design, Marketing, E-Commerce)
 
 - type: experience
   name: Intern
