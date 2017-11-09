@@ -94,7 +94,11 @@ others: #其他列表显示
   - title: "Software／Programming／English："
     text: "Axure、Photoshop／Java、Python、SQL、PHP／IELTS 6.5"
   - title: "Awards & Honors:"
-    text: "1. The Title of Excellent Student with 1st class Scholarship, NWPU. 2.The Title of Excellent Student Cadre with the 2nd class Scholarship, NWPU. 3. The title of Excellent graduate, NWPU. 4. The 2nd Class Prize in the 18th National English Speech Contest (Campus Selective Trials, Shaanxi)"
+    items:
+    - The Title of Excellent Student with 1st class Scholarship, NWPU
+    - The Title of Excellent Student Cadre with the 2nd class Scholarship, NWPU.
+    - The title of Excellent graduate, NWPU. 
+    - The 2nd Class Prize in the 18th National English Speech Contest (Campus Selective Trials, Shaanxi)
 
 
 #footer 脚注，打印版和web版不同不显示    
