@@ -66,9 +66,9 @@ main: #简历主要内容，
     detail: User requirement analysis and system design of a website for donation management; Website development; achieved 6 main functions such as donating, receiving and leaving a message.
   
   - title: Venture－Campus souvenirs design and selling
-    duration: "Undergraduate"
+    duration: "During Undergraduate"
     sub: Leader
-    detail: We acquired 10k RMB from the government as the start-up capital. The Goal is creating brand and achieving expected profit. As the team leader (5 people)，I participated in designing 3 types of metal bookmarks, 2 types of sport wristbands and 1 set of postcard；I was responsible for contacting 3 manufacturers and two dealers, organizing 20 meetings and assining tasks. We gained 25k RMB profit though this project.
+    detail: We acquired 10k RMB from the government as the start-up capital. The Goal is creating brand and achieving expected profit. As the team leader (5 people)，I participated in designing 3 types of metal bookmarks, 2 types of sport wristbands and 1 set of postcard；I was responsible for contacting 3 manufacturers and 2 dealers, organizing 20 meetings and assining tasks. We gained 25k RMB profit though this project.
   
   - title: Volunteer-International Volunteers Program
     duration: "During Undergraduate"
@@ -81,7 +81,7 @@ main: #简历主要内容，
     detail: Constructing CNN and DNN for training the datasets MNIST and CIFAR10/100; Adjusting parameters and optimize the models; The accuracy achieved 98% and 71% respectively.
  
   - title: Big data-StackOverflow big data analysis
-    duration: "During master"
+    duration: "During Master"
     sub: Developer
     detail: Aim to analyze the big data extracted from stackOverflow. I finished the different analysis for 120 million words using MapReduce and Hadoop. For example, finding out the most frequent word. 
 
