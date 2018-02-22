@@ -8,11 +8,11 @@ photo: "assets/img/syh.jpg" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
-- text: "15209288583@163.com" #文本内容
-  href: '15209288583@163.com' #链接，无链接则空  
+- text: "jasonshao6@163.com" #文本内容
+  href: 'jasonshao6@163.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
-- text: "+86 152-0928-8583"
-  href: 'tel:+86 15209288583'
+- text: "+86 132-6580-0719"
+  href: 'tel:+86 13265800719'
   icon: 'icons/phone.svg'
 - text: "我的github主页"
   href: 'https://github.com/YaohuiShao'
@@ -90,8 +90,6 @@ others: #其他列表显示
 - type: others #ID可以为空
   name: '其他信息'
   content: #选择需要的格式
-  - title: "政治面貌："
-    text: "中共党员"
   - title: "软件技能／编程语言／英语："
     text: "Axure、Visio、Excel／Java、Python／雅思6.5"
   - title: "获奖信息："
