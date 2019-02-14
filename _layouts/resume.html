@@ -134,7 +134,7 @@ layout: default
       {% endfor %} 
       
       {% for other in data.others %}
-      <section class="other" id="{{ other.type }}" style="margin-top: 1.6em;">
+      <section class="other" id="{{ other.type }}" style="margin-top: 2em;">
         <h2 class="subject">{{ other.name | default: other.type }}</h2>
         <ul class="content">
           {% for content in other.content %}
