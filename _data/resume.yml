@@ -23,9 +23,9 @@ contact: #联系方式连接等3~5行
 
 #main下面是主体内容，类别条数不限
 main: #简历主要内容，
-# - type: education #类别为ID
-#   name: 个人 #显示名称，空则使用type
-#   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
+- type: education #类别为ID
+  name: 个人 #显示名称，空则使用type
+  content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: 顺丰科技有限公司
 #     duration: "2017.12 - 至今"
     sub: 算法工程师         (2017.12 - 至今)
@@ -37,9 +37,9 @@ main: #简历主要内容，
     sub: 本科             (2012.9 - 2016.6)
     detail: 信息管理与信息系统(主修数据挖掘、软件工程、运筹学等)
 
-# - type: projects
-#   name: 项目经验
-#   content:
+- type: projects
+  name: 项目经验
+  content:
   - title: 智能营销
     sub: 负责人
     detail: 
@@ -55,10 +55,10 @@ main: #简历主要内容，
     detail: 该项目是本人硕士毕业设计，任务是设计并开发一款以交互动画方式呈现算法原理的桌面教学软件。本人负责需求分析，竞品研究，产品设计和代码实现。过程中共分析竞品10余款，完成Axure原型图8页，5000余行Java代码。该软件实现了Bubble Sort, DFS, AVL Tree等10余个算法的动画交互演示，在校学生测评结果显示，该软件可以帮助学生入门数据结构和算法，有一定的教育意义。该软件于2017年9月在爱丁堡大学上线使用。
     
 #others 其他简略内容(列表)
-# others: #其他列表显示
-# - type: others #ID可以为空
-#   name: '其他信息'
-#   content: #选择需要的格式
+others: #其他列表显示
+- type: others #ID可以为空
+  name: '其他信息'
+  content: #选择需要的格式
   - title: "编程技能："
     text: "Python, Java, SQL, Hadoop"
   - title: "软件技能："
