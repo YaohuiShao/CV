@@ -19,8 +19,8 @@ print:
   #每块设置(对应main里面每一条)
   section:
     margin: '3px auto 0' #边距
-    padding: '3px 0' #内部偏移
-    width: '85%' #内容宽度 basic无效
+#     padding: '3px 0' #内部偏移
+#     width: '85%' #内容宽度 basic无效
   # content每一条边距设置
   block-margin: 4px 0
   #打印版页脚设置
