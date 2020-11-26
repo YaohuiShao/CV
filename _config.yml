@@ -11,7 +11,7 @@ print:
   # block:无侧栏
   template: 'flex' 
   #字体大小
-  fontsize: 10px
+  fontsize: 1px
   #页面边距设置，3~5mm为佳[不建议修改]
   page-margin: '6mm 5mm 3mm' #上，右(无同上)，下(无同上)，左（无同右）
   #也顶部(姓名栏目)边距偏移
@@ -20,7 +20,7 @@ print:
   section:
     margin: '3px auto 0' #边距
 #     padding: '3px 0' #内部偏移
-    width: '100%' #内容宽度 basic无效
+    width: '85%' #内容宽度 basic无效
   # content每一条边距设置
   block-margin: 4px 0
   #打印版页脚设置
