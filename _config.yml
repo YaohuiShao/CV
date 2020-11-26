@@ -3,7 +3,7 @@ xtitle: 简历模板
 querytime: true  #在头像,js和css等后加上时间戳防止缓存,false关闭
 manifest: '' # html5离线缓存配置文件名,默认关闭
 #打印样式设置
-subject-width: 8% #左边栏宽度
+subject-width: 1% #左边栏宽度
 print:
   # 打印样式模板,
   # 空不设置打印样式，模板变量无效
@@ -12,7 +12,7 @@ print:
   # block:无侧栏
   template: 'flex' 
   #字体大小
-  fontsize: 12px
+  fontsize: 40px #12px
   #页面边距设置，3~5mm为佳[不建议修改]
   page-margin: '6mm 5mm 3mm' #上，右(无同上)，下(无同上)，左（无同右）
   #也顶部(姓名栏目)边距偏移
