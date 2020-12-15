@@ -42,10 +42,7 @@ main: #简历主要内容，
   content:
   - title: 智能营销
     sub: 负责人
-    detail: 
-    items: #itmems 可以小块的方式显示
-    - 背景：项目背景是利用传感器技术分析托寄物的破损原因，以及对高价值托寄物进行全路程监控。
-    - 目标：目标是与硬件研发团队与风控业务团队合作，提供算法和数据分析支持。
+    detail: md:path/to/demo.md
   - title: 物流货物行为检测项目
     sub: 负责人
     items:
