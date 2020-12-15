@@ -42,7 +42,8 @@ main: #简历主要内容，
   content:
   - title: 智能营销
     sub: 负责人
-    detail: md:syh_md.md
+    detail:
+      md: _data/syh_md.md
   - title: 物流货物行为检测项目
     sub: 负责人
     items:
